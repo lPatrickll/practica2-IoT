@@ -62,7 +62,7 @@ public:
   }
 };
 
-WiFiClientHandler wifiHandler("TP-Link_65A0", "-8690478_P@.trick", "192.168.0.158", 8000);
+WiFiClientHandler wifiHandler("GalaxyA54", "72726315", "192.168.137.165", 8000);
 
 const int LED_GREEN = 33;
 const int LED_YELLOW = 32;

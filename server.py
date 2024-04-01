@@ -1,7 +1,7 @@
 import socket
 from _thread import *
 
-HOST = '192.168.0.158'
+HOST = '192.168.137.165'
 PORT = 8000
 server = socket.socket()
 server.bind((HOST, PORT))

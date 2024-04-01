@@ -85,7 +85,7 @@ public:
 };
 
 Ultrasonic ultrasonicSensor(TRIG_PIN, ECHO_PIN);
-WiFiClientHandler wifiHandler("TP-Link_65A0", "-8690478_P@.trick", "192.168.0.158", 8000);
+WiFiClientHandler wifiHandler("GalaxyA54", "72726315", "192.168.137.165", 8000);
 
 void setup() {
   Serial.begin(115200);
